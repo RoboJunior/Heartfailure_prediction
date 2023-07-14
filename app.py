@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Heart-failure-prediction",page_icon="🫀",layout='wide')
 
-st.header("Heart Failure prediction using Linear Regression Model 🫀")
+st.header("Heart Failure prediction using Logistic Regression Model 🫀")
 
 
 #loading the dataset using pickle
